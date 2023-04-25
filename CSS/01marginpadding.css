@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+div {
+    height: 10px;
+    width: 150px;
+    background-color: aqua;
+}
+
+h1 {
+    color: white;
+}
