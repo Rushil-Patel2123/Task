@@ -1,0 +1,19 @@
+fieldset{
+    width: 500px;
+}
+.name{
+    text-align: left;
+}
+a{
+    text-align: right;
+}
+.right{
+    margin: 130px;
+}
+.big{
+    height: 20px;
+    width: 500px;
+}
+.big-two{
+    height: 30;
+}
