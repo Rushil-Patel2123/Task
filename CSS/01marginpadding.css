@@ -1,13 +1,13 @@
 * {
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
     box-sizing: border-box;
     background-color: black;
 }
 
 div {
-    height: 10px;
-    width: 150px;
+    height: 20px;
+    width: 200px;
     background-color: aqua;
 }
 
