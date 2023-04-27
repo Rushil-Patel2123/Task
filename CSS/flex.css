@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    height: 100px;
+    /* background-color: red; */
+    display: flex;
+}
+#logo{
+    height: inherit;
+    width: 20%;
+    background-color: green;
+}
+#link{
+    height: inherit;
+    width: 80%;
+    /* background-color: aqua; */
+}
+#l-1{
+    height: 50%;
+    background-color: blue;
+}
+#l-2{
+    height: 50%;
+    background-color: blueviolet;
+}
+#main{
+    height: 600px;
+    background-color: brown;
+    display: flex;
+}
+#main-1{
+    height: inherit;
+    width: 50%;
+    background-color: chartreuse;
+    display: flex;
+}
+#sub-1{
+    height: inherit;
+    width: 50%;
+    background-color: lightcoral;
+}
+#s-1{
+    height: 50%;
+    background-color: darkslategrey;
+}
+#s-2{
+    height: 50%;
+    background-color: slategrey;
+}
+#sub-2{
+    height: inherit;
+    width: 50%;
+    background-color: coral;
+}
+#b-1{
+    height: 50%;
+    background-color: deepskyblue;
+}
+#b-2{
+    height: 50%;
+    background-color: skyblue;
+}
+#main-2{
+    height: inherit;
+    width: 50%;
+    background-color: hotpink;
+    display: flex;
+}
+#bub-1{
+    height: inherit;
+    width: 50%;
+    background-color: darkorchid;
+}
+#p-1{
+    height: 50%;
+    background-color: orchid;
+}
+#p-2{
+    height: 50%;
+    background-color: lightblue;
+}
+#bub-2{
+    height: inherit;
+    width: 50%;
+    background-color: red;
+}
+#o-1{
+    height: 50%;
+    background-color: orange;
+}
+#o-2{
+    height: 50%;
+    background-color: mediumpurple;
+}
+#footer{
+    height: 60px;
+    background-color: tomato;
+}
