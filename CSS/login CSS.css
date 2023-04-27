@@ -1,19 +1,55 @@
+body{
+    background-image: linear-gradient(to right, darkblue, rgb(13, 170, 79));
+}
+h1{
+    color: white;
+}
 fieldset{
+    border-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.74);
+    border-radius: 10px;
     width: 500px;
+    height: 400px;
+}
+h3{
+    margin-top: 30px;
+    color: white;
+}
+.grey{
+    color: grey;
 }
 .name{
+    color: white;
     text-align: left;
 }
-a{
-    text-align: right;
-}
-.right{
-    margin: 130px;
-}
 .big{
-    height: 20px;
+    margin-top: 10px;
+    height: 30px;
     width: 500px;
 }
+.remember{
+    color: white;
+    width: 250px;
+}
+.pswd{
+    
+    text-align: right;
+    width: 250px;
+}
+a{
+    color: rgb(64, 112, 245);
+    text-decoration: none;
+}
 .big-two{
-    height: 30;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    width: 500px;
+    height: 40px;
+    border: 0px;
+}
+.notmem{
+    margin-top: 20px;
+    color: white;
+    text-align: center;
 }
